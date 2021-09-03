@@ -5,10 +5,10 @@
 
 
 ## Cloudfront Workshop
-🔗 [** Amazon EKS Workshop **](https://content-acceleration-cloudfront.workshop.aws/)
+🔗 [** Cloudfront Workshop **](https://content-acceleration-cloudfront.workshop.aws/)
 
 ## WAF Workshop
-🔗 [** Amazon EKS Workshop **](https://introduction-to-waf.workshop.aws/)
+🔗 [** WAF Workshop **](https://introduction-to-waf.workshop.aws/)
 
 <--
 ## Team Hash
